@@ -1,0 +1,19 @@
+body{
+    margin: 0 auto;
+}
+
+.header{
+    width: 20%;
+    margin-top: 3cm ;
+    border:1px solid lightseagreen;
+    border-radius: 10px 10px 0 0;
+    padding:20px;
+    
+}
+
+.input-group{
+    width: 20%;
+    border:1px solid lightseagreen;
+    border-radius: 0 0 10px 10px;
+    padding:20px;
+}
